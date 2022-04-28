@@ -1,0 +1,15 @@
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\bin\Debug\net6.0\NumbersInC.exe
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\bin\Debug\net6.0\NumbersInC.deps.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\bin\Debug\net6.0\NumbersInC.runtimeconfig.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\bin\Debug\net6.0\NumbersInC.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\bin\Debug\net6.0\NumbersInC.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.csproj.AssemblyReference.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.AssemblyInfoInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.AssemblyInfo.cs
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\refint\NumbersInC.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\NumbersInC.genruntimeconfig.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp1\obj\Debug\net6.0\ref\NumbersInC.dll

@@ -1,0 +1,15 @@
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\bin\Debug\net6.0\ListCollections.exe
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\bin\Debug\net6.0\ListCollections.deps.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\bin\Debug\net6.0\ListCollections.runtimeconfig.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\bin\Debug\net6.0\ListCollections.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\bin\Debug\net6.0\ListCollections.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.csproj.AssemblyReference.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.AssemblyInfoInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.AssemblyInfo.cs
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\refint\ListCollections.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ListCollections.genruntimeconfig.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp2\obj\Debug\net6.0\ref\ListCollections.dll

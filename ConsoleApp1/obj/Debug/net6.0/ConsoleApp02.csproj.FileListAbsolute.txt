@@ -1,0 +1,15 @@
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\ConsoleApp02.exe
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\ConsoleApp02.deps.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\ConsoleApp02.runtimeconfig.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\ConsoleApp02.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\ConsoleApp02.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.csproj.AssemblyReference.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.AssemblyInfoInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.AssemblyInfo.cs
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\refint\ConsoleApp02.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ConsoleApp02.genruntimeconfig.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ref\ConsoleApp02.dll

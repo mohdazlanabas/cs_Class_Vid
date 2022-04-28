@@ -1,0 +1,15 @@
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\BaranchesNLoops.exe
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\BaranchesNLoops.deps.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\BaranchesNLoops.runtimeconfig.json
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\BaranchesNLoops.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\bin\Debug\net6.0\BaranchesNLoops.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.csproj.AssemblyReference.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.AssemblyInfoInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.AssemblyInfo.cs
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.csproj.CoreCompileInputs.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\refint\BaranchesNLoops.dll
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.pdb
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\BaranchesNLoops.genruntimeconfig.cache
+D:\CSharp\cs_AzlanioTrain01\ConsoleApp02\obj\Debug\net6.0\ref\BaranchesNLoops.dll
